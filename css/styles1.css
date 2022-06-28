@@ -251,5 +251,7 @@ body {
 #testimonial {
     height:100px;
 }
-
+#footer {
+    margin-top:40px;
+    }
 }
