@@ -235,6 +235,7 @@ body {
 #cta {
     padding:5% 10%;
     height:200px;
+    margin-bottom:40px;
 }
 .dbutton {
     margin:10px;
@@ -251,7 +252,5 @@ body {
 #testimonial {
     height:100px;
 }
-#footer {
-    margin-top:40px;
-    }
+
 }
