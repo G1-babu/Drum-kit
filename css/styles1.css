@@ -234,12 +234,13 @@ body {
     }
 #cta {
     padding:5% 10%;
+    height:200px;
 }
 .dbutton {
     margin:10px;
 }
  .debutton {
-     margin-bottom:50px;
+     margin-bottom:20px;
     }
     
 .testimonial-text {
