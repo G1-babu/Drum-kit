@@ -230,10 +230,10 @@ body {
 .h3 {
         font-size:45px;
         line-height: 1.5;
-
-    }
+}
+    
 #cta {
-    margin-bottom:40px;
+    padding:5% 10% 5% 10%;
 }
 .dbutton {
     margin:10px;
